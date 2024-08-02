@@ -17,7 +17,7 @@ This repository contains an application that allows you to interact with a chatb
 - [Running the Application](#running-the-application)
   - [Running with Chainlit](#running-with-chainlit)
   - [Running with Jupyter Notebook](#running-with-jupyter-notebook)
-- [License](#license)
+
 
 ## Installation
 
